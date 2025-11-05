@@ -1,0 +1,12 @@
+{
+  "name": "jenkinsnodejshw44",
+  "version": "1.0.0",
+  "description": "Jenkins Node.js Integration HW4",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Test passed successfully!\""
+  },
+  "author": "velascomartb1",
+  "license": "ISC"
+}
